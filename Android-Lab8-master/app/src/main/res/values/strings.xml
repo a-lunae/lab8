@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laba 8</string>
+    <string name="start_record">СТАРТ</string>
+    <string name="stop_record">СТОП</string>
+</resources>
